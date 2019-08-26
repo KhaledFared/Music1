@@ -1,0 +1,6 @@
+token=NjE1MjY0NDE0MzY2NTY0NTgw.XWLoCA.hqYdpz_fS91DLqnQVuJILHKpFGI
+owner=526370086194511892
+prefix=>
+game=Hello its Me Khaled
+stayinchannel=true
+songinstatus=true
