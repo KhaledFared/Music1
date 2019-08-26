@@ -1,4 +1,4 @@
-token=NjE1MjYyMDUxNTE3ODU3OTcx.XWPC7Q.4ah-9zvz7VPGXE2lUiv7tN35NLQ
+token=NTQzNzAxMjg4NTY3OTYzNjc3.XWPD-Q.IZbGy--BS890qlHA5m7p5caMWW8
 owner=526370086194511892
 prefix=>
 game=Hello its Me Khaled
