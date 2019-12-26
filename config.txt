@@ -1,6 +1,6 @@
-token=NTQzNzAxMjg4NTY3OTYzNjc3.XWPD-Q.IZbGy--BS890qlHA5m7p5caMWW8
+token=NTkzODM3MTAzMTE3MjM4MzA4.XgTE6Q.9rT2vZjmCtfGvvZVALXFjYNvfLc
 owner=526370086194511892
-prefix=>
-game=Hello its Me Khaled
+prefix=-
+game=iT's Me Khaled 
 stayinchannel=true
 songinstatus=true
